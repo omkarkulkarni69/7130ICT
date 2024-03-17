@@ -1,1 +1,1 @@
-You can provide some comments on your submission here.
+Job Marekt and Sales ipynb files for Lab 1 submissions.
